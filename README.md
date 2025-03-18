@@ -1,30 +1,19 @@
-
-![MasterHead](https://digitalcloud.training/wp-content/uploads/2022/01/AWS-Analytics.jpg)
-
+![MasterHead](https://i.pinimg.com/originals/d4/fa/5e/d4fa5e7819cf803731b3c86af30b062e.png)
 
 <h1 align="center">Hi 👋, I'm Meghana B</h1>
 
-
-
-<h3 align="center">💼 I’m a Data Analyst, AWS Specialist, and Software Development Engineer, passionate about leveraging technology to solve real-world problems.</h3>
+<h3 align="center">💼 I’m a Data Analyst specializing in full-stack data analysis for Walmart, with a passion for leveraging technology to solve complex business problems.</h3>
 
 <img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-- 🔭 I’m currently working on Spotify analysis using AWS
-
-- 🌱 I’m currently learning AWS, Python, Data Science, Snowflake, C++
-  
-- 👯 I’m looking to collaborate on AWS projects
-
-- 🤝 I’m looking for help with Data analysis Projects In AWS
-  
-- 👨‍💻 All of my projects are available at [https://github.com/meghana1209](https://github.com/meghana1209)
-  
-- 💬 Ask me about AWS, Python, AI, and Data Science
-  
-- 📫 How to reach me meghanab235@gmail.com
-  
-- 📄 Know about my experiences [www.linkedin.com/in/meghana-b-701899259](www.linkedin.com/in/meghana-b-701899259)
+- 🔭 I’m currently working on full-stack data analysis projects for Walmart  
+- 🌱 I’m currently advancing skills in **SQL, AWS, Power BI**, and **Data Science**  
+- 👯 I’m looking to collaborate on **data analysis** and **business intelligence projects**  
+- 🤝 I’m seeking assistance with **optimizing ETL processes and advanced analytics**  
+- 👨‍💻 All of my projects are available at [https://github.com/meghana1209](https://github.com/meghana1209)  
+- 💬 Ask me about **SQL, AWS, Power BI, and full-stack data analysis**  
+- 📫 Reach me at **meghanab235@gmail.com**  
+- 📄 Learn more about my professional journey on [www.linkedin.com/in/meghana-b-701899259](www.linkedin.com/in/meghana-b-701899259)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -41,77 +30,23 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
     </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
     </a>
-    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;"/>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
     </a>
-    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40" style="margin-right: 10px;"/>
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40" style="margin-right: 10px;"/>
     </a>
 </p>
 
@@ -132,7 +67,3 @@
 <p align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
 </p>
-
-
-
-
