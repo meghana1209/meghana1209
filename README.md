@@ -1,4 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/d4/fa/5e/d4fa5e7819cf803731b3c86af30b062e.png)
+![MasterHead]![Beige Pink Minimalist Personal LinkedIn Banner](https://github.com/user-attachments/assets/e02eb44f-b7dc-4adf-bc7e-bb96ae721699)
+
 
 <h1 align="center">Hi 👋, I'm Meghana B</h1>
 
