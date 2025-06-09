@@ -1,60 +1,84 @@
 ![Beige Pink Minimalist Personal LinkedIn Banner](https://github.com/user-attachments/assets/e02eb44f-b7dc-4adf-bc7e-bb96ae721699)
-
-
-<h1 align="center">Hi 👋, I'm Meghana B</h1>
-
-<h3 align="center">💼 I’m a Data Analyst specializing in full-stack data analysis for Walmart, with a passion for leveraging technology to solve complex business problems.</h3>
-
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
-
-- 🔭 I’m currently working on full-stack data analysis projects for Walmart  
-- 🌱 I’m currently advancing skills in **SQL, AWS, Power BI**, and **Data Science**  
-- 👯 I’m looking to collaborate on **data analysis** and **business intelligence projects**  
-- 🤝 I’m seeking assistance with **optimizing ETL processes and advanced analytics**  
-- 👨‍💻 All of my projects are available at [https://github.com/meghana1209](https://github.com/meghana1209)  
-- 💬 Ask me about **SQL, AWS, Power BI, and full-stack data analysis**  
-- 📫 Reach me at **meghanab235@gmail.com**  
-- 📄 Learn more about my professional journey on [www.linkedin.com/in/meghana-b-701899259](www.linkedin.com/in/meghana-b-701899259)
-
-<h3 align="center">Connect with me:</h3>
+<!-- Elegant Banner -->
 <p align="center">
-  <a href="https://linkedin.com/in/meghana-b-701899259" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/meghana-b-701899259" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/blest_door_10" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/blest_door_10" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/6o8avadccb/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/6o8avadccb/" height="30" width="40" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/e02eb44f-b7dc-4adf-bc7e-bb96ae721699" alt="Professional Banner" width="100%">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h1 align="center">✨ Meghana B ✨</h1>
+<h3 align="center">Software Engineer | Data Analyst | C++ & DSA Practitioner | Cloud & BI Enthusiast</h3>
+
 <p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/power-bi" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="margin-right: 10px;"/>
-  
+  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" alt="Tech Animation" width="200">
 </p>
 
-<h1 align="center">📊 GitHub Stats:</h1>
+---
 
-<!-- GitHub Stats -->
+🎯 **Who am I?**
+
+I’m **Meghana B**, a results-driven **Software Engineer** and **Full-Stack Data Analyst** with a profound interest in the convergence of structured data, cloud solutions, and algorithmic problem-solving. I architect and deliver impactful insights using **SQL, Power BI, Python**, and **AWS**. My enthusiasm for **C++** and **Data Structures & Algorithms (DSA)** fuels my passion for scalable and efficient solutions.
+
+I thrive in high-impact environments where data meets decision-making and where clean code powers clean insights.
+
+---
+
+🚀 **Current Focus Areas**
+
+- 🔍 Optimizing **ETL pipelines** for real-time analytics  
+- 💻 Deep diving into **C++ fundamentals** and solving **DSA problems** daily  
+- 📊 Building **interactive dashboards** with Power BI and Snowflake  
+- ☁️ Deploying cloud-based solutions on **AWS & Snowflake**  
+- 🤖 Experimenting with AI-driven resume matching for staffing analytics  
+
+---
+
+🧠 **Projects That Define Me**
+
+| Project Title | Description |
+|---------------|-------------|
+| **Walmart Full-Stack Analytics** | End-to-end data pipelines, inventory forecasting, real-time dashboards using Python, SQL, and Power BI. |
+| **Spotify Data Mining on AWS** | AWS S3 + Snowflake + SQL for music pattern analytics & recommendations. |
+| **Swiggy vs Blinkit BI Dashboard** | Power BI dashboard comparing performance, revenue & demand shifts across regions. |
+| **AI Resume Matcher** | NLP-powered job seeker–requirement matcher for remote staffing using Python & Snowflake. |
+| **C++ DSA Tracker** | Solved 300+ DSA problems (LeetCode, CodeChef) with pattern-based tagging and logic analysis. |
+
+---
+
+📫 **Let’s Connect and Collaborate**
+
+- 🔗 [LinkedIn](https://linkedin.com/in/meghana-b-701899259)  
+- 💼 [GitHub Portfolio](https://github.com/meghana1209)  
+- ✉️ **meghanab235@gmail.com**  
+- 💡 Let’s build the future—one query, one dashboard, and one algorithm at a time.
+
+---
+
+🔧 **Languages & Technologies**
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghana1209&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana1209&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg" alt="Snowflake" width="40" height="40" />
 </p>
+
+---
+
+📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meghana1209&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana1209&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+✨ _“Code is poetry. Data is the rhythm.”_  
+Thank you for visiting! Let’s innovate together. 🌐
 
 ## 🏆 GitHub Trophies
 <p align="center">
