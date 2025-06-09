@@ -1,4 +1,3 @@
-![Beige Pink Minimalist Personal LinkedIn Banner](https://github.com/user-attachments/assets/e02eb44f-b7dc-4adf-bc7e-bb96ae721699)
 <!-- Elegant Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e02eb44f-b7dc-4adf-bc7e-bb96ae721699" alt="Professional Banner" width="100%">
@@ -33,13 +32,13 @@ I thrive in high-impact environments where data meets decision-making and where 
 
 🧠 **Projects That Define Me**
 
-| Project Title | Description |
-|---------------|-------------|
+| Project Title                | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
 | **Walmart Full-Stack Analytics** | End-to-end data pipelines, inventory forecasting, real-time dashboards using Python, SQL, and Power BI. |
 | **Spotify Data Mining on AWS** | AWS S3 + Snowflake + SQL for music pattern analytics & recommendations. |
 | **Swiggy vs Blinkit BI Dashboard** | Power BI dashboard comparing performance, revenue & demand shifts across regions. |
-| **AI Resume Matcher** | NLP-powered job seeker–requirement matcher for remote staffing using Python & Snowflake. |
-| **C++ DSA Tracker** | Solved 300+ DSA problems (LeetCode, CodeChef) with pattern-based tagging and logic analysis. |
+| **AI Resume Matcher**       | NLP-powered job seeker–requirement matcher for remote staffing using Python & Snowflake. |
+| **C++ DSA Tracker**         | Solved 300+ DSA problems (LeetCode, CodeChef) with pattern-based tagging and logic analysis. |
 
 ---
 
@@ -77,8 +76,22 @@ I thrive in high-impact environments where data meets decision-making and where 
 
 ---
 
-✨ _“Code is poetry. Data is the rhythm.”_  
-Thank you for visiting! Let’s innovate together. 🌐
+✨ _“Code is not just syntax — it’s the poetry of logic, the grammar of problem-solving, and the voice of innovation.”_ ✨
+
+🔭 As I grow through hands-on experience, continuous learning, and real-world projects, my mission is to transform raw data into meaningful insights and elegant algorithms that shape intelligent systems.
+
+💬 Whether it’s about a tough DSA pattern, a messy data lake, or a dashboard that needs storytelling — I’m just one connection away.
+
+---
+
+<p align="center">
+  <b>Let’s architect the future — one byte, one chart, and one elegant solution at a time 🚀</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+profile!;Let’s+build+something+impactful+🤝&center=true&width=500&color=F77070&size=20">
+</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center">
