@@ -80,7 +80,7 @@ I thrive in high-impact environments where data meets decision-making and where 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="GitLab" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" />
-  <img src="https://img.icons8.com/fluency/48/devops.png" alt="DevOps" width="40" height="40" />
+
 
 </p>
 
@@ -92,6 +92,14 @@ I thrive in high-impact environments where data meets decision-making and where 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Meghana-B&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meghana-B&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-B&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 
@@ -119,13 +127,7 @@ I thrive in high-impact environments where data meets decision-making and where 
   <img src="https://github-profile-trophy.vercel.app/?username=Meghana-B&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meghana-B&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-B&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
