@@ -69,9 +69,7 @@ I thrive in high-impact environments where data meets decision-making and where 
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghana1209&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana1209&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Meghana-B&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -95,7 +93,15 @@ I thrive in high-impact environments where data meets decision-making and where 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=meghana1209&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Meghana-B&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meghana-B&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-B&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ### ✍️ Random Dev Quote
