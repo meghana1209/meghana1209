@@ -89,10 +89,7 @@ I thrive in high-impact environments where data meets decision-making and where 
 
 📊 **GitHub Stats**
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Meghana-B&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Meghana-B&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
