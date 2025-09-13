@@ -85,17 +85,20 @@ I thrive in high-impact environments where data meets decision-making and where 
 </p>
 
 
----
-
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghanab1209&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meghana1209&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanab1209&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana1209&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana1209&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 ✨ _“Code is not just syntax — it’s the poetry of logic, the grammar of problem-solving, and the voice of innovation.”_ ✨
 
