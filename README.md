@@ -92,11 +92,11 @@ I thrive in high-impact environments where data meets decision-making and where 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meghana-B&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meghanab1209&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meghana-B&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanab1209&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 
