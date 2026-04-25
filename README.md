@@ -1,130 +1,420 @@
-<!-- Elegant Banner -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e02eb44f-b7dc-4adf-bc7e-bb96ae721699" alt="Professional Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">✨ Meghana B ✨</h1>
-<h3 align="center">Software Engineer | Data Analyst | C++ & DSA Practitioner | Cloud & BI Enthusiast</h3>
+<img width="1584" height="396" alt="Black and White Illustrative Linkedin Banner" src="https://github.com/user-attachments/assets/fd4d0379-89a8-489e-87c2-d5881920e3a7" />
+ 
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif" alt="Tech Animation" width="200">
-</p>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+AI+%26+Cloud+Intern+%40+SuprMentr+Technologies;☁️+7%2B+AWS+Certs+%7C+20%2B+Total+Certifications;📊+Power+BI+%7C+Snowflake+%7C+ETL+%7C+Data+Engineering;⚡+371%2B+DSA+Problems+%7C+LeetCode;🔬+Serverless+%7C+Quantum+ML+%7C+CI%2FCD+%7C+AI+for+Social+Good)](https://git.io/typing-svg)
 
-🎯 **Who am I?**
+<br/>
 
-I’m **Meghana B**, a results-driven **Software Engineer** and **Full-Stack Data Analyst** with a profound interest in the convergence of structured data, cloud solutions, and algorithmic problem-solving. I architect and deliver impactful insights using **SQL, Power BI, Python**, and **AWS**. My enthusiasm for **C++** and **Data Structures & Algorithms (DSA)** fuels my passion for scalable and efficient solutions.
+<a href="https://linkedin.com/in/meghana-b-701899259">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:meghanab134@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/meghana1209">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=meghana1209&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
-I thrive in high-impact environments where data meets decision-making and where clean code powers clean insights.
-
----
-
-🚀 **Current Focus Areas**
-
-- 🔍 Optimizing **ETL pipelines** for real-time analytics  
-- 💻 Deep diving into **C++ fundamentals** and solving **DSA problems** daily  
-- 📊 Building **interactive dashboards** with Power BI and Snowflake  
-- ☁️ Deploying cloud-based solutions on **AWS & Snowflake**  
-- 🤖 Experimenting with AI-driven resume matching for staffing analytics  
+</div>
 
 ---
 
-🧠 **Projects That Define Me**
+## 🧬 About Me
 
-| Project Title                | Description                                                                 |
-|-----------------------------|-----------------------------------------------------------------------------|
-| **Walmart Full-Stack Analytics** | End-to-end data pipelines, inventory forecasting, real-time dashboards using Python, SQL, and Power BI. |
-| **Spotify Data Mining on AWS** | AWS S3 + Snowflake + SQL for music pattern analytics & recommendations. |
-| **Swiggy vs Blinkit BI Dashboard** | Power BI dashboard comparing performance, revenue & demand shifts across regions. |
-| **AI Resume Matcher**       | NLP-powered job seeker–requirement matcher for remote staffing using Python & Snowflake. |
-| **C++ DSA Tracker**         | Solved 300+ DSA problems (LeetCode, CodeChef) with pattern-based tagging and logic analysis. |
+**👩‍💻 SDE · Data Engineer · AI & Cloud Engineer**
 
----
+💼 AI & Cloud Intern @ SuprMentr Technologies &nbsp;|&nbsp; 📍 Bengaluru, Karnataka, India 🇮🇳
 
-📫 **Let’s Connect and Collaborate**
+📧 meghanab134@gmail.com &nbsp;|&nbsp; 📞 +91 9113962148
 
-- 🔗 [LinkedIn](https://linkedin.com/in/meghana-b-701899259)  
-- 💼 [GitHub Portfolio](https://github.com/meghana1209)  
-- ✉️ **meghanab235@gmail.com**  
-- 💡 Let’s build the future—one query, one dashboard, and one algorithm at a time.
+I am a final-year AI & Data Science student passionate about building scalable cloud systems, intelligent AI solutions, and real-world data-driven applications. I enjoy solving complex problems, working on production-ready systems, and continuously learning across AI, cloud, and software engineering.
 
 ---
 
-🔧 **Languages & Technologies**
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="center">
+**👨‍💻 Languages**
 
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+Python · JavaScript · SQL · Java · C++ · Bash · HTML · CSS
 
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40" />
+**🤖 AI / ML**
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40" />
+Supervised Learning · NLP · Feature Engineering · Model Evaluation · Generative AI · Human-in-the-Loop AI
 
-  <!-- DevOps & Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg" alt="GitLab" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="40" height="40" />
+**☁️ Cloud & DevOps**
 
+AWS (EC2, S3, Lambda, DynamoDB, IAM, API Gateway, CloudWatch, CodePipeline, Lex) · Docker · LocalStack · GitHub Actions · Serverless
 
-</p>
+**📊 Data & BI**
 
+Power BI · Tableau · Pandas · NumPy · Matplotlib · Scikit-learn · Snowflake · Excel
 
-# 📊 GitHub Stats
+**🗄️ Databases**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meghana1209&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-</p>
+MySQL · MongoDB · Amazon DynamoDB
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana1209&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+**🧠 Core CS**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana1209&theme=radical" alt="GitHub Streak" />
-</p>
+DSA (LeetCode 371+) · OOP · DBMS · System Design · SDLC · Operating Systems · Computer Networks
 
+**🛠️ Tools**
 
-✨ _“Code is not just syntax — it’s the poetry of logic, the grammar of problem-solving, and the voice of innovation.”_ ✨
-
-🔭 As I grow through hands-on experience, continuous learning, and real-world projects, my mission is to transform raw data into meaningful insights and elegant algorithms that shape intelligent systems.
-
-💬 Whether it’s about a tough DSA pattern, a messy data lake, or a dashboard that needs storytelling — I’m just one connection away.
+Git · GitHub · VS Code · Jupyter · Jira · Asana · Trello
 
 ---
 
-<p align="center">
-  <b>Let’s architect the future — one byte, one chart, and one elegant solution at a time 🚀</b>
-</p>
+## 💼 Experience
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting+my+profile!;Let’s+build+something+impactful+🤝&center=true&width=500&color=F77070&size=20">
-</p>
+<table>
+<tr>
+<td width="50px" align="center">🤖</td>
+<td>
+
+**Artificial Intelligence & Cloud Computing Intern** · *SuprMentr Technologies Pvt Ltd*
+`Feb 2026 – Present` · Bangalore
+
+Building Power BI dashboards for KPI tracking · SQL & Excel-based ETL workflows · AWS cloud analytics · Agile delivery with Jira · Root-cause analysis on data pipelines
+
+`Cloud Computing` `Power BI` `AWS` `SQL` `ETL` `Agile`
+
+</td>
+</tr>
+<tr>
+<td width="50px" align="center">☁️</td>
+<td>
+
+**AWS Skill Builder Certification Program — Cohort 1** · *Infosys Springboard*
+`Aug 2025 – Feb 2026` · 7 months
+
+Joint initiative by Infosys Springboard & AWS — deep-dive into scalable cloud architecture, serverless systems, and AWS certification pathway.
+
+`Amazon Web Services (AWS)` `Cloud Computing` `Serverless`
+
+</td>
+</tr>
+<tr>
+<td width="50px" align="center">📘</td>
+<td>
+
+**Infosys Pragati — Path to Future Program** · *Infosys Springboard*
+`Feb 2025 – Jun 2025` · Bengaluru (Hybrid) · 5 months
+
+AI & project management foundations · Data Science certification prep · Communication & professional English training · Data Science Foundation Certificate earned.
+
+`Data Science` `Communication` `AI` `Project Management`
+
+</td>
+</tr>
+<tr>
+<td width="50px" align="center">🎓</td>
+<td>
+
+**Cloud Computing in collaboration with IIT Roorkee** · *TEACHNOOK*
+`Jun 2024 – Aug 2024` · 3 months
+
+Hands-on cloud training with IIT Roorkee collaboration — Amazon S3, Amazon Lex, and cloud infrastructure fundamentals.
+
+`AWS S3` `Amazon Lex` `Cloud Computing`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projects
+
+### ⚡ Latest (2026)
+
+<table>
+<tr>
+<td width="50%">
+
+#### ☁️ [CloudShift — Monolith to Serverless](https://github.com/meghana1209/CloudShift_Monolith_Serverless-Migration)
+`Mar 2026 – Present`
+
+Migrated a monolithic **Flask + MySQL** app to a fully serverless architecture using AWS Lambda, API Gateway & DynamoDB. Wrote architecture decision records, documented trade-offs, and validated with end-to-end integration tests.
+
+`AWS Lambda` `API Gateway` `DynamoDB` `Flask` `Serverless`
+
+</td>
+<td width="50%">
+
+#### 🔬 Hybrid Quantum-Inspired ML Model
+`Mar 2026 – Present`
+
+Built a **hybrid quantum-classical ML system** simulating Rx/Ry/Rz gates, quantum entanglement & amplitude amplification using PyTorch. Includes an interactive web dashboard for real-time visualization of quantum circuits and training curves.
+
+`PyTorch` `Python` `NumPy` `Scikit-Learn` `Quantum Computing`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔁 [AutoDeploy — Zero-Touch CI/CD](https://github.com/meghana1209/autodeploy)
+`Jan 2026 – Present`
+
+CI/CD pipeline using **GitHub Actions + AWS CodePipeline**. Every push to `main` auto-runs pytest → deploys to Lambda → live health check → **auto-rollback on failure**. Zero manual steps.
+
+`GitHub Actions` `AWS CodePipeline` `AWS Lambda` `pytest` `DevOps`
+
+</td>
+<td width="50%">
+
+#### ♻️ Nirmal AI — Smart Waste Detection System
+`Dec 2025 – Jan 2026`
+
+AI + **computer vision** system detecting waste type and recommending the correct disposal bin. Features cleanliness score leaderboards, eco-awareness quizzes, and optional IoT smart bin overflow alerts to municipal authorities.
+
+`Python` `TypeScript` `Computer Vision` `AI` `IoT` `Smart City`
+
+</td>
+</tr>
+</table>
+
+### 📊 Data, BI & Cloud Analytics
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏭 [SAP HANA Supplier Performance Analytics](https://github.com/meghana1209/sap-hana-supplier-performance-analytics)
+`Dec 2025`
+
+SQL-based KPI analysis — **delivery efficiency, lead time & cost trends** — simulating real-world SAP HANA ERP analytics environments.
+
+`SAP HANA` `SQL` `ERP Analytics` `KPI Reporting`
+
+</td>
+<td width="50%">
+
+#### 📦 [SAP Inventory & Logistics Analytics](https://github.com/meghana1209/sap-inventory-logistics-analytics)
+`Dec 2025`
+
+SQL analytics tracking **stock movement, demand patterns, and logistics efficiency** aligned with SAP supply chain concepts.
+
+`SAP` `SQL` `Inventory Analytics` `Supply Chain`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🍔 [Blinkit Real-Time Sales Dashboard](https://github.com/meghana1209/blinkit-sales--data-analysis-dashboard)
+`Feb 2025`
+
+Comprehensive **Power BI dashboard** for Blinkit with real-time sales tracking, regional drill-downs, and product performance analysis.
+
+`Power BI` `DAX` `Data Modeling` `SQL`
+
+</td>
+<td width="50%">
+
+#### 🛵 [Swiggy Sales Analysis Dashboard](https://github.com/meghana1209/swiggy_dataanalysis_power_bi)
+`Feb 2025`
+
+Interactive **Power BI dashboard** — top-rated restaurants, city-wise breakdown, veg/non-veg distribution, and year-wise revenue trends with DAX custom measures.
+
+`Power BI` `DAX` `Excel` `Business Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🌧️ [Rainfall Trends in India](https://github.com/meghana1209/rainanalysis)
+`Feb 2025`
+
+**ARIMA time-series forecasting** of India's rainfall with regional disparity analysis and climate change impact assessment.
+
+`Python` `Pandas` `Matplotlib` `Seaborn` `ARIMA` `Scikit-Learn`
+
+</td>
+<td width="50%">
+
+#### 🌦️ [Weather App — Real-Time Forecast Viewer](https://github.com/meghana1209/weather-app)
+`Jun – Jul 2025`
+
+Responsive weather app integrating **OpenWeatherMap API** for real-time temperature, wind and sky condition data with mobile-first design.
+
+`HTML` `CSS` `JavaScript` `REST API` `Responsive Design`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🛒 [RetailSight — Sales & Supply Chain Platform](https://github.com/meghana1209)
+`Sep 2024 – Jan 2025`
+
+Data-driven retail analytics platform with **responsive UI**, AWS cloud integration, KPI dashboards, and data science-driven sales forecasting.
+
+`AWS` `SQL` `JavaScript` `Data Science` `Power BI`
+
+</td>
+<td width="50%">
+
+#### 🤖 AI Chatbot for E-Commerce — AWS Lex
+`Oct 2024 – Dec 2024` · *VTU · IEEE Paper Published*
+
+**NLP chatbot** using Amazon Lex + Lambda + DynamoDB for product recommendations, order management, and ML-based personalization.
+
+`Amazon Lex` `AWS Lambda` `DynamoDB` `NLP` `ML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎵 Spotify Data Mining on AWS
+
+AWS S3 + Snowflake + SQL for **music pattern analytics** and recommendation engine insights from streaming data.
+
+`AWS S3` `Snowflake` `SQL` `Python`
+
+</td>
+<td width="50%">
+
+#### 💬 [Feedback App](https://github.com/meghana1209/feedback_app)
+
+Full-stack feedback collection platform with **modular, maintainable architecture** and clean commit-per-module structure.
+
+`Full-Stack` `JavaScript` `Modular Design`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+### 👩‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI / ML
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+### 📊 BI & Databases
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### 🧰 Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+### ☁️ Amazon Web Services (AWS) — 7 Certifications
+
+![](https://img.shields.io/badge/AWS_Cloud_Support_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/AWS_Cloud_Technical_Essentials-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Cloud_Support_Essentials-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/Python_for_Serverless_on_AWS-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![](https://img.shields.io/badge/AWS_S3_Basics-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![](https://img.shields.io/badge/Intro_to_IT_%26_AWS_Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/AWS_APAC_Solutions_Architecture-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### 📊 Data, Analytics & Programming
+
+![](https://img.shields.io/badge/SQL_Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![](https://img.shields.io/badge/SQL_Basics-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
+![](https://img.shields.io/badge/Data_Science_Foundation-00C2FF?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Data_Visualization_Tableau-00C2FF?style=flat-square&logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/Excel_for_Data_Analysts-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![](https://img.shields.io/badge/Python_Foundation-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/BCG_Data_Science_Simulation-007848?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/JPMorgan_Excel_Skills-003087?style=flat-square&logoColor=white)
+
+### 🌐 Cloud, Enterprise & AI
+
+![](https://img.shields.io/badge/SAP_Cloud_ERP_Onboarding-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![](https://img.shields.io/badge/Data_Privacy_%26_Protection-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![](https://img.shields.io/badge/Business_Analysis_%26_Process_Mgmt-0056D2?style=flat-square&logo=coursera&logoColor=white)
+![](https://img.shields.io/badge/IBM_Virtual_Agent_Builder-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![](https://img.shields.io/badge/Cloud_Computing_IIT_Roorkee-FF6B35?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Professional_Diploma_in_PR-6B21A8?style=flat-square&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=meghana1209&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=CDD6F4" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana1209&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4" width="41%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana1209&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="55%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghana1209&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
+
+---
 
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meghana-B&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+---
 
+## 💡 Dev Quote
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+</div>
 
-### ✍️ Random Dev Quote
-<p align="center">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
-</p>
+---
+
+<div align="center">
+
+*"Building Intelligent Systems. Shipping Real Code."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a1a2e,16213e,0f3460&height=100&section=footer" width="100%" />
+
+</div>
