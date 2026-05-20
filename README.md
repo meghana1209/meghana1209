@@ -162,7 +162,9 @@ Git · GitHub · VS Code · Jupyter · Jira · Asana · Trello
 ### ⚡ Latest (2026)
 
 <table>
+
 <tr>
+
 <td width="50%">
 
 #### ☁️ [CloudShift — Monolith to Serverless](https://github.com/meghana1209/CloudShift_Monolith_Serverless-Migration)
@@ -173,6 +175,7 @@ Migrated a monolithic **Flask + MySQL** app to a fully serverless architecture u
 `AWS Lambda` `API Gateway` `DynamoDB` `Flask` `Serverless`
 
 </td>
+
 <td width="50%">
 
 #### 🔬 Hybrid Quantum-Inspired ML Model
@@ -183,16 +186,22 @@ Built a **hybrid quantum-classical ML system** simulating Rx/Ry/Rz gates, quantu
 `PyTorch` `Python` `NumPy` `Scikit-Learn` `Quantum Computing`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%">
 
 #### 🔁 [AutoDeploy — Zero-Touch CI/CD](https://github.com/meghana1209/autodeploy)
-`Jan 2026 – Present`
+`Jan 2026 – May 2026`
 
-CI/CD pipeline using **GitHub Actions + AWS CodePipeline**. Every push to `main` auto-runs pytest → deploys to Lambda → live health check → **auto-rollback on failure**. Zero manual steps.
+CI/CD pipeline using **GitHub Actions + AWS CodePipeline**. Every push to `main` auto-runs pytest → deploys to Lambda → live health check → **auto-rollback on failure**.
 
 `GitHub Actions` `AWS CodePipeline` `AWS Lambda` `pytest` `DevOps`
+
+</td>
+
 <td width="50%">
 
 #### 🤖 AI Resume Parsing & Intelligent Recruitment Platform
@@ -200,9 +209,9 @@ CI/CD pipeline using **GitHub Actions + AWS CodePipeline**. Every push to `main`
 
 Developed an end-to-end **AI-powered recruitment platform** for **UK clients** to streamline hiring workflows across **Recruiter, Candidate, and Admin portals**.
 
-Built and integrated **AI Resume Parsing** to automatically extract candidate information including skills, experience, education, certifications, and profile insights. Implemented an intelligent **candidate-job matching engine** to improve recruiter efficiency and hiring outcomes.
+Built and integrated **AI Resume Parsing** to extract candidate skills, experience, education, certifications, and profile insights. Implemented an intelligent **candidate-job matching engine** to improve recruiter efficiency.
 
-Contributed to **AWS cloud deployment, testing, validation, system optimization, and scalable application workflows**.
+Contributed to **AWS cloud deployment, testing, validation, performance optimization, and scalable workflows**.
 
 Key Features:  
 • AI Resume Parsing  
@@ -215,21 +224,30 @@ Key Features:
 • Testing & Validation  
 • Analytics & Reporting  
 
-`AI` `AWS` `Cloud Computing` `Resume Parsing` `Testing` `DevOps` `SQL` `System Design`
+`AI` `AWS` `Cloud Computing` `Resume Parsing` `Testing` `DevOps` `SQL`
 
 </td>
+
 </tr>
-</table>
+
+<tr>
+
+<td width="50%">
 
 #### ♻️ Nirmal AI — Smart Waste Detection System
 `Dec 2025 – Jan 2026`
 
-AI + **computer vision** system detecting waste type and recommending the correct disposal bin. Features cleanliness score leaderboards, eco-awareness quizzes, and optional IoT smart bin overflow alerts to municipal authorities.
+AI + **computer vision** system detecting waste type and recommending the correct disposal bin. Features cleanliness score leaderboards, eco-awareness quizzes, and optional IoT smart bin overflow alerts.
 
 `Python` `TypeScript` `Computer Vision` `AI` `IoT` `Smart City`
 
 </td>
+
+<td width="50%">
+</td>
+
 </tr>
+
 </table>
 
 ### 📊 Data, BI & Cloud Analytics
