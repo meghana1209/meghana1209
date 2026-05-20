@@ -26,13 +26,15 @@
 
 ## 🧬 About Me
 
-**👩‍💻 SDE · Data Engineer · AI & Cloud Engineer**
+**👩‍💻 AI Engineer · Cloud Engineer · DevOps Enthusiast · Cybersecurity Learner**
 
 💼 AI & Cloud Intern @ SuprMentr Technologies &nbsp;|&nbsp; 📍 Bengaluru, Karnataka, India 🇮🇳
 
 📧 meghanab134@gmail.com &nbsp;|&nbsp; 📞 +91 9113962148
 
-I am a final-year AI & Data Science student passionate about building scalable cloud systems, intelligent AI solutions, and real-world data-driven applications. I enjoy solving complex problems, working on production-ready systems, and continuously learning across AI, cloud, and software engineering.
+I am a final-year Artificial Intelligence & Data Science student passionate about designing scalable cloud solutions, building intelligent AI applications, and developing secure, production-ready systems. My interests span Cloud Computing, DevOps, Cybersecurity, Data Engineering, and Software Development.
+
+I enjoy working with AWS cloud technologies, automation pipelines, system optimization, infrastructure concepts, and solving real-world problems through modern engineering practices. Currently, I am strengthening my expertise across AI, Cloud, DevOps, and security-focused technologies while continuously learning and building impactful solutions.
 
 ---
 
@@ -42,13 +44,20 @@ I am a final-year AI & Data Science student passionate about building scalable c
 
 Python · JavaScript · SQL · Java · C++ · Bash · HTML · CSS
 
-**🤖 AI / ML**
 
-Supervised Learning · NLP · Feature Engineering · Model Evaluation · Generative AI · Human-in-the-Loop AI
+### ☁️ Cloud & DevOps
 
-**☁️ Cloud & DevOps**
+AWS (EC2, S3, Lambda, IAM, API Gateway, CloudWatch, CodePipeline) · Docker · GitHub Actions · CI/CD · Linux · Serverless · Infrastructure Concepts
 
-AWS (EC2, S3, Lambda, DynamoDB, IAM, API Gateway, CloudWatch, CodePipeline, Lex) · Docker · LocalStack · GitHub Actions · Serverless
+### 🔐 Cybersecurity
+
+Network Security · IAM · Cloud Security Fundamentals · Security Best Practices · Vulnerability Assessment · Risk Management · Cybersecurity Fundamentals
+
+### 🤖 Artificial Intelligence
+
+Machine Learning · Generative AI · NLP · Feature Engineering · Model Evaluation · AI Applications
+Supervised Learning ·Human-in-the-Loop AI
+
 
 **📊 Data & BI**
 
@@ -75,54 +84,82 @@ Git · GitHub · VS Code · Jupyter · Jira · Asana · Trello
 <td width="50px" align="center">🤖</td>
 <td>
 
-**Artificial Intelligence & Cloud Computing Intern** · *SuprMentr Technologies Pvt Ltd*
-`Feb 2026 – Present` · Bangalore
 
-Building Power BI dashboards for KPI tracking · SQL & Excel-based ETL workflows · AWS cloud analytics · Agile delivery with Jira · Root-cause analysis on data pipelines
 
-`Cloud Computing` `Power BI` `AWS` `SQL` `ETL` `Agile`
+## 💼 Experience
 
-</td>
-</tr>
+<table>
+
 <tr>
 <td width="50px" align="center">☁️</td>
 <td>
 
-**AWS Skill Builder Certification Program — Cohort 1** · *Infosys Springboard*
-`Aug 2025 – Feb 2026` · 7 months
+### Artificial Intelligence & Cloud Computing Intern  
+**SuprMentr Technologies Pvt Ltd**  
+`Feb 2026 – Present` · Bengaluru
 
-Joint initiative by Infosys Springboard & AWS — deep-dive into scalable cloud architecture, serverless systems, and AWS certification pathway.
+• Building cloud-enabled analytics and automation solutions using AWS services  
+• Developing data workflows and dashboard-driven business insights  
+• Supporting ETL processes using SQL and cloud technologies  
+• Collaborating in Agile development environments  
+• Working on monitoring, optimization, and system reliability practices  
 
-`Amazon Web Services (AWS)` `Cloud Computing` `Serverless`
+`AWS` `Cloud Computing` `SQL` `ETL` `Power BI` `Agile`
 
 </td>
 </tr>
+
+<tr>
+<td width="50px" align="center">🚀</td>
+<td>
+
+### AWS Skill Builder Program — Cohort 1  
+**Infosys Springboard × AWS**  
+`Aug 2025 – Feb 2026`
+
+• Completed structured learning across AWS cloud services and architecture  
+• Explored serverless computing and cloud deployment concepts  
+• Strengthened cloud engineering and operational fundamentals  
+
+`AWS` `Cloud Engineering` `Serverless` `Cloud Architecture`
+
+</td>
+</tr>
+
 <tr>
 <td width="50px" align="center">📘</td>
 <td>
 
-**Infosys Pragati — Path to Future Program** · *Infosys Springboard*
-`Feb 2025 – Jun 2025` · Bengaluru (Hybrid) · 5 months
+### Infosys Pragati — Path to Future Program  
+**Infosys Springboard**  
+`Feb 2025 – Jun 2025`
 
-AI & project management foundations · Data Science certification prep · Communication & professional English training · Data Science Foundation Certificate earned.
+• Developed foundations in AI, project execution, and professional communication  
+• Worked on technology-driven learning and structured problem-solving  
+• Completed Data Science Foundation learning track  
 
-`Data Science` `Communication` `AI` `Project Management`
+`AI` `Project Management` `Communication`
 
 </td>
 </tr>
+
 <tr>
 <td width="50px" align="center">🎓</td>
 <td>
 
-**Cloud Computing in collaboration with IIT Roorkee** · *TEACHNOOK*
-`Jun 2024 – Aug 2024` · 3 months
+### Cloud Computing Trainee  
+**Teachnook × IIT Roorkee**  
+`Jun 2024 – Aug 2024`
 
-Hands-on cloud training with IIT Roorkee collaboration — Amazon S3, Amazon Lex, and cloud infrastructure fundamentals.
+• Learned cloud infrastructure and deployment fundamentals  
+• Worked with AWS services including Amazon S3 and Amazon Lex  
+• Explored scalable application and cloud architecture concepts  
 
-`AWS S3` `Amazon Lex` `Cloud Computing`
+`AWS` `Amazon S3` `Amazon Lex` `Cloud Computing`
 
 </td>
 </tr>
+
 </table>
 
 ---
@@ -136,7 +173,7 @@ Hands-on cloud training with IIT Roorkee collaboration — Amazon S3, Amazon Lex
 <td width="50%">
 
 #### ☁️ [CloudShift — Monolith to Serverless](https://github.com/meghana1209/CloudShift_Monolith_Serverless-Migration)
-`Mar 2026 – Present`
+`Mar 2026 – May 2026`
 
 Migrated a monolithic **Flask + MySQL** app to a fully serverless architecture using AWS Lambda, API Gateway & DynamoDB. Wrote architecture decision records, documented trade-offs, and validated with end-to-end integration tests.
 
@@ -146,7 +183,7 @@ Migrated a monolithic **Flask + MySQL** app to a fully serverless architecture u
 <td width="50%">
 
 #### 🔬 Hybrid Quantum-Inspired ML Model
-`Mar 2026 – Present`
+`Mar 2026 – May 2026`
 
 Built a **hybrid quantum-classical ML system** simulating Rx/Ry/Rz gates, quantum entanglement & amplitude amplification using PyTorch. Includes an interactive web dashboard for real-time visualization of quantum circuits and training curves.
 
@@ -165,6 +202,27 @@ CI/CD pipeline using **GitHub Actions + AWS CodePipeline**. Every push to `main`
 `GitHub Actions` `AWS CodePipeline` `AWS Lambda` `pytest` `DevOps`
 
 </td>
+#### 🤖 AI Resume Parsing & Intelligent Recruitment Platform
+`Jan 2026 – May 2026`
+
+Developed an end-to-end **AI-powered recruitment platform** for **UK clients** designed to streamline hiring workflows across **Recruiter, Candidate, and Admin portals**.
+
+Built and integrated **AI Resume Parsing** to automatically extract candidate information including skills, experience, education, certifications, and profile insights. Implemented an intelligent **candidate-job matching engine** to improve recruiter decision-making and hiring efficiency.
+
+Contributed to **AWS cloud deployment, application testing, validation, performance optimization, and scalable architecture implementation** while supporting complete platform workflows.
+
+Key Features:
+• AI Resume Parsing  
+• Intelligent Candidate Matching  
+• Recruiter Dashboard  
+• Candidate Portal  
+• Admin Management System  
+• Application Tracking  
+• Cloud Deployment  
+• Testing & Validation  
+• Analytics & Reporting  
+
+`AI` `AWS` `Cloud Computing` `Resume Parsing` `Testing` `DevOps` `SQL` `System Design`
 <td width="50%">
 
 #### ♻️ Nirmal AI — Smart Waste Detection System
@@ -316,14 +374,30 @@ Full-stack feedback collection platform with **modular, maintainable architectur
 
 ### ☁️ Cloud & DevOps
 
+### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![CI/CD](https://img.shields.io/badge/CI_CD-0EA5E9?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Serverless](https://img.shields.io/badge/Serverless-F97316?style=for-the-badge)
+
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-2563EB?style=for-the-badge)
 ### 📊 BI & Databases
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -348,6 +422,8 @@ Full-stack feedback collection platform with **modular, maintainable architectur
 ## 🏅 Certifications
 
 ### ☁️ Amazon Web Services (AWS) — 7 Certifications
+### ☁️ Cloud & Infrastructure Certifications
+
 
 ![](https://img.shields.io/badge/AWS_Cloud_Support_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/AWS_Cloud_Technical_Essentials-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -356,6 +432,10 @@ Full-stack feedback collection platform with **modular, maintainable architectur
 ![](https://img.shields.io/badge/AWS_S3_Basics-FF9900?style=flat-square&logo=amazons3&logoColor=white)
 ![](https://img.shields.io/badge/Intro_to_IT_%26_AWS_Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/AWS_APAC_Solutions_Architecture-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+![](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_Foundations-FF0000?style=flat-square&logo=oracle&logoColor=white)
+
+![](https://img.shields.io/badge/Oracle_AI_Foundations-FF0000?style=flat-square&logo=oracle&logoColor=white)
 
 ### 📊 Data, Analytics & Programming
 
@@ -383,10 +463,13 @@ Full-stack feedback collection platform with **modular, maintainable architectur
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meghana1209&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=CDD6F4" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana1209&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=CDD6F4" width="41%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=meghana1209&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meghana1209&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="55%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana1209&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=meghana1209&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -395,10 +478,11 @@ Full-stack feedback collection platform with **modular, maintainable architectur
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghana1209&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" width="95%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meghana1209&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
----
 
 
 ---
