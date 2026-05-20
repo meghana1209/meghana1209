@@ -193,20 +193,20 @@ Built a **hybrid quantum-classical ML system** simulating Rx/Ry/Rz gates, quantu
 CI/CD pipeline using **GitHub Actions + AWS CodePipeline**. Every push to `main` auto-runs pytest → deploys to Lambda → live health check → **auto-rollback on failure**. Zero manual steps.
 
 `GitHub Actions` `AWS CodePipeline` `AWS Lambda` `pytest` `DevOps`
+<td width="50%">
 
-</td>
 #### 🤖 AI Resume Parsing & Intelligent Recruitment Platform
 `Jan 2026 – May 2026`
 
-Developed an end-to-end **AI-powered recruitment platform** for **UK clients** designed to streamline hiring workflows across **Recruiter, Candidate, and Admin portals**.
+Developed an end-to-end **AI-powered recruitment platform** for **UK clients** to streamline hiring workflows across **Recruiter, Candidate, and Admin portals**.
 
-Built and integrated **AI Resume Parsing** to automatically extract candidate information including skills, experience, education, certifications, and profile insights. Implemented an intelligent **candidate-job matching engine** to improve recruiter decision-making and hiring efficiency.
+Built and integrated **AI Resume Parsing** to automatically extract candidate information including skills, experience, education, certifications, and profile insights. Implemented an intelligent **candidate-job matching engine** to improve recruiter efficiency and hiring outcomes.
 
-Contributed to **AWS cloud deployment, application testing, validation, performance optimization, and scalable architecture implementation** while supporting complete platform workflows.
+Contributed to **AWS cloud deployment, testing, validation, system optimization, and scalable application workflows**.
 
-Key Features:
+Key Features:  
 • AI Resume Parsing  
-• Intelligent Candidate Matching  
+• Intelligent Candidate–Job Matching  
 • Recruiter Dashboard  
 • Candidate Portal  
 • Admin Management System  
@@ -216,7 +216,10 @@ Key Features:
 • Analytics & Reporting  
 
 `AI` `AWS` `Cloud Computing` `Resume Parsing` `Testing` `DevOps` `SQL` `System Design`
-<td width="50%">
+
+</td>
+</tr>
+</table>
 
 #### ♻️ Nirmal AI — Smart Waste Detection System
 `Dec 2025 – Jan 2026`
