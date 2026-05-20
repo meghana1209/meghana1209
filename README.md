@@ -187,9 +187,7 @@ Built a **hybrid quantum-classical ML system** simulating Rx/Ry/Rz gates, quantu
 
 </td>
 
-</tr>
 
-<tr>
 
 <td width="50%">
 
@@ -201,6 +199,7 @@ CI/CD pipeline using **GitHub Actions + AWS CodePipeline**. Every push to `main`
 `GitHub Actions` `AWS CodePipeline` `AWS Lambda` `pytest` `DevOps`
 
 </td>
+
 
 <td width="50%">
 
