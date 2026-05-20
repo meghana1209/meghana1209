@@ -75,14 +75,7 @@ DSA (LeetCode 371+) · OOP · DBMS · System Design · SDLC · Operating Systems
 
 Git · GitHub · VS Code · Jupyter · Jira · Asana · Trello
 
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50px" align="center">🤖</td>
-<td>
+--
 
 
 
